@@ -1,0 +1,6 @@
+*.pem
+vendor/
+**/.git
+Dockerfile
+.github
+README.md
